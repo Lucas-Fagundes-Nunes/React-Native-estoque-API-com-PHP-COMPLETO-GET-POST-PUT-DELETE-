@@ -1,6 +1,8 @@
 # Estoque React Native API ( PHP ) COMPLETO
 Sistema desenvolvido para realizar as requisições GET, POST, PUT e DELETE com Reac-Native, com o intuído de consumir, cadastrar, atualizar e deletar produtos da API de estoque.
 
+API utilizada está no repositório: https://github.com/Lucas-Fagundes-Nunes/API-estoque-PHP
+
 #### API
 > API desenvolvida na linguagem php.
 
